@@ -1,0 +1,29 @@
+name: form_extensions
+description: Add .onSaved and .validator to any widget! Make Form() easier!
+version: 1.0.0
+repository: https://github.com/chrystoffer/form_extensions
+homepage: https://github.com/chrystoffer/form_extensions
+issue_tracker: https://github.com/seu-chrystoffer/form_extensions/issues
+
+environment:
+  sdk: ^3.7.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+topics:
+  - form
+  - flutter
+  - extension
+  - form_extensions
+  - extensions
