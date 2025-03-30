@@ -22,8 +22,8 @@ flutter:
   uses-material-design: true
 
 topics:
-  - form
   - flutter
+  - form
   - extension
-  - form_extensions
   - extensions
+  - form-extensions
